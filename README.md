@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/Sachinraje_007](https://twitter.com/Sachinraje_007)
 
-- 💬 Ask me about **Manual, Core Java, Selenium, MySQL, API**
+- 💬 Ask me about **Manual & Automation Testing, API, Jira Core Java, Selenium, MySQL, API**
 
 - 📫 How to reach me **ssalunke560@gmail.com**
 
